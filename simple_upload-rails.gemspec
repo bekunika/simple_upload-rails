@@ -6,7 +6,7 @@ require 'simple_upload/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "simple_upload-rails"
   spec.version       = SimpleUpload::Rails::VERSION
-  spec.authors       = ["beka-office"]
+  spec.authors       = ["Beka Meshvildishvili"]
   spec.email         = ["meshvildishvili@gmail.com"]
 
   spec.summary       = "simpleUpload library gem for ruby on rails"
